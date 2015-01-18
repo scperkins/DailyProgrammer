@@ -1,6 +1,6 @@
 Acronym Expander
 ================
-[](reddit.com/r/dailyprogrammer)
+[/r/dailyprogrammer](reddit.com/r/dailyprogrammer)
 ---
 
 During online gaming (or any video game that requires teamwork) , there is often times that you need to speak to your teammates. Given the nature of the game, it may be inconvenient to say full sentences and it's for this reason that a lot of games have acronyms in place of sentences that are regularly said.
