@@ -20,9 +20,8 @@ for word in leetspeak:
     for key in acronyms:
         if word == key:
             word_index = leetspeak.index(word)
-            print word_index
             leetspeak.pop(word_index)
             word = acronyms.get(key)
             leetspeak.insert(word_index, word)
-print leetspeak
+print ' '.join(leetspeak)
 
