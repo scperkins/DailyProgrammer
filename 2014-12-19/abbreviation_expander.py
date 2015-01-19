@@ -1,4 +1,3 @@
-import unittest
 
 acronyms = {
             'lol': 'laugh out loud',
