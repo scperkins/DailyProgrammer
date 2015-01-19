@@ -13,13 +13,13 @@ However, all this abbreviated text can be confusing and intimidating for someone
 You are tasked with converting an abbreviated sentence into its full version.
 
 Below is a short list of acronyms paired with their meaning to use for this challenge.
-lol - laugh out loud
-dw - don't worry
-hf - have fun
-gg - good game
-brb - be right back
-g2g - got to go
-wtf - what the fuck
-wp - well played
-gl - good luck
-imo - in my opinion
+*lol - laugh out loud
+*dw - don't worry
+*hf - have fun
+*gg - good game
+*brb - be right back
+*g2g - got to go
+*wtf - what the fuck
+*wp - well played
+*gl - good luck
+*imo - in my opinion
